@@ -3,7 +3,7 @@
 An end-to-end machine learning pipeline that predicts whether a telecom customer will churn (leave), using the IBM Telco Customer Churn dataset (7,043 customers, 21 features).
 
 ## Live Demo
-Deployed with Streamlit: `[add your share.streamlit.io link here after deploying]`
+Deployed with Streamlit: "https://customer-churn-prediction-nkzmnivxobzvexlznnz9tc.streamlit.app/"
 
 ## Problem
 Customer churn directly impacts revenue. This project identifies at-risk customers in advance so a business can take proactive retention action, and explains *why* each prediction was made.
